@@ -1,0 +1,28 @@
+<Library>
+	<Technical Books>
+	
+		<Books ISBN = "1593275994">
+			<title> Automate the Boring Stuff with Python </title>
+			<author> Al Sweigart </author>
+		</Books>
+		<Books ISBN = "109810403">
+			<title> Python for Data Analysis </title>
+			<author> Wes McKinney </author>
+		</Books>
+		
+	</Technical Books>
+	
+	<Cooking Books>
+		<Books ISBN = "0857839659">
+			<title> How to Cook: The 100 Essential Recipes Everyone Should Know </title>
+			<author> Darina Allen </author>
+		</Books>
+		<Books ISBN = "9781399710480">
+			<title> SWEET THERAPY: THE JOY OF BAKING </title>
+			<author> Una Leonard </author>
+		</Books>
+	
+	</Cooking Books>
+
+
+</Library>
