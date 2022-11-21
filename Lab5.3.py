@@ -1,6 +1,7 @@
 
 from github import Github
 from config import config as cfg
+from htmlconfig import config as cfg #for some reason the github was not importing for me even though it was installed. 
 
 from github.MainClass import Github
 
